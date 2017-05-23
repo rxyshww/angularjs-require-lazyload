@@ -1,0 +1,2 @@
+# angularjs-require-lazyload
+angular结合require和lazyload实现异步加载模块
